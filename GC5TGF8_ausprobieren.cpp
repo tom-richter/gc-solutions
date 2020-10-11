@@ -38,5 +38,5 @@ int main(int argc, char *argv[])
     cout << "Starting number with longest series: " << starting_number_with_longest_series << endl;
     cout << "Longest series length: " << longest_series_length << endl;
         
-	  return 0;
+	return 0;
 }
